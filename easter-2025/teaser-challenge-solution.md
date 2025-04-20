@@ -10,6 +10,5 @@ ZGlnICtzaG9ydCBlZ2c/Pz8/LnBocmFjay5vcmcgVFhU
 
 ### THE SOLUTION:
 
-NONE yet. Submit a PR :>
-
+"You found a Purple-Green-White Egg! CONGRATULATION! Send a PR at git@github.com/phrackzine/crackme"
 

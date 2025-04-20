@@ -8,7 +8,8 @@ Challenges are published by the staff. Your task is to solve them. Not all chall
 ZGlnICtzaG9ydCBlZ2c/Pz8/LnBocmFjay5vcmcgVFhU
 ```
 That's all you get. Go find the egg.  
-(this is a test challenge to test our setup. The difficulty is EASY).
+
+> (Inspired by Jinn, who is also the masterind behind the upcoming Phrack-CrackMes. This is a test challenge to test our setup. The difficulty is EASY).
 
 ---
 

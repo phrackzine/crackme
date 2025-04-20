@@ -10,15 +10,18 @@ Challenges are published by the staff. Your task is to solve them. Not all chall
 ```
 ZGlnICtzaG9ydCBlZ2c/Pz8/LnBocmFjay5vcmcgVFhU
 ```
-That's all you get. Go find the egg.  
-
-> (Inspired by Jinn, who is also the masterind behind the upcoming Phrack-CrackMes. This is a test challenge to test our setup. The difficulty is EASY).
+That's all you get. Go find the egg 🥚.  
 
 ---
 
-The upcoming PHRACK-#72 will contain 3 hidden challenges. Each at a different level of difficulty: Easy, Mid and ELITE. Some challenges will be hidden in the hardcover release only. The winner gets a prize and shoutz on our social media.
+### PHRACK-#72 will contain 3 hidden challenges - RELEASE AUGUST 2025.
 
+- Three levels of difficulty: easy, mid and ELITE.
+- One egg will be hidden in the hardcover release only.
 - The CrackMes will be longer and more steps.
 - You need to find and solve Egg-#1 to get the clue to solve Egg-#2 etc.
-- There will be a price for the winner.
+- Glory to the winner, a prize and shoutz on our social media.
 
+---
+
+The CrackMes are the fine work of [@sub_space](https://x.com/sub_space)/[@hxxr](https://bsky.app/profile/hxxr.bsky.social).

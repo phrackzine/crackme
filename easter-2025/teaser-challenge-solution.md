@@ -7,7 +7,7 @@ ZGlnICtzaG9ydCBlZ2c/Pz8/LnBocmFjay5vcmcgVFhU
 
 
 ---
-
+### SOLUTION:
 Base64 decode the above string to get:
 
 ```

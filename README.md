@@ -1,5 +1,8 @@
 # PHRACK CrackMe Challenges
 
+![riddler](https://github.com/user-attachments/assets/9c80821f-7a06-450b-9e64-712fe6beb2ef)
+
+
 Challenges are published by the staff. Your task is to solve them. Not all challenges are announced publicly and some are hidden and you need to find them first. The solution to every challenge is a COLOURED EGG (for example: `You found a YELLOW egg`). First person to submit a Pull-Request with their solution wins.
 
 ---
@@ -14,4 +17,8 @@ That's all you get. Go find the egg.
 ---
 
 The upcoming PHRACK-#72 will contain 3 hidden challenges. Each at a different level of difficulty: Easy, Mid and ELITE. Some challenges will be hidden in the hardcover release only. The winner gets a prize and shoutz on our social media.
+
+- The CrackMes will be longer and more steps.
+- You need to find and solve Egg-#1 to get the clue to solve Egg-#2 etc.
+- There will be a price for the winner.
 
